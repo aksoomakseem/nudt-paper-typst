@@ -1,14 +1,14 @@
 #let info = (
-  title: "凌霄宝殿建设与维护关键技术研究",
-  name: "孙悟空",
-  idnum: "202102001036",
-  major2: "筋斗云运维与保障", 
-  major1: "御马科学与技术", 
-  college: "斜月三星洞",
-  grade: "2021级", 
-  advisor: "菩提祖师",
-  jobtitle: "教授",
-  unit: "西牛贺州招生录取委员会"
+  title: "Mamba网络赋能的多模态大模型域适应图像分类研究",
+  name: "徐增林",
+  idnum: "202202001054",
+  major2: "无", 
+  major1: "人工智能与大数据", 
+  college: "计算机学院",
+  grade: "2022级", 
+  advisor: "谭慧彬",
+  jobtitle: "讲师",
+  unit: "国防科技大学计算机学院"
 )
 
 #let comments = [
